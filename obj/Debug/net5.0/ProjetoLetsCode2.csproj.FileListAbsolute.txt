@@ -1,0 +1,16 @@
+C:\Users\alexa\ProjetoLetsCode2\bin\Debug\net5.0\ProjetoLetsCode2.exe
+C:\Users\alexa\ProjetoLetsCode2\bin\Debug\net5.0\ProjetoLetsCode2.deps.json
+C:\Users\alexa\ProjetoLetsCode2\bin\Debug\net5.0\ProjetoLetsCode2.runtimeconfig.json
+C:\Users\alexa\ProjetoLetsCode2\bin\Debug\net5.0\ProjetoLetsCode2.runtimeconfig.dev.json
+C:\Users\alexa\ProjetoLetsCode2\bin\Debug\net5.0\ProjetoLetsCode2.dll
+C:\Users\alexa\ProjetoLetsCode2\bin\Debug\net5.0\ref\ProjetoLetsCode2.dll
+C:\Users\alexa\ProjetoLetsCode2\bin\Debug\net5.0\ProjetoLetsCode2.pdb
+C:\Users\alexa\ProjetoLetsCode2\obj\Debug\net5.0\ProjetoLetsCode2.csprojAssemblyReference.cache
+C:\Users\alexa\ProjetoLetsCode2\obj\Debug\net5.0\ProjetoLetsCode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\ProjetoLetsCode2\obj\Debug\net5.0\ProjetoLetsCode2.AssemblyInfoInputs.cache
+C:\Users\alexa\ProjetoLetsCode2\obj\Debug\net5.0\ProjetoLetsCode2.AssemblyInfo.cs
+C:\Users\alexa\ProjetoLetsCode2\obj\Debug\net5.0\ProjetoLetsCode2.csproj.CoreCompileInputs.cache
+C:\Users\alexa\ProjetoLetsCode2\obj\Debug\net5.0\ProjetoLetsCode2.dll
+C:\Users\alexa\ProjetoLetsCode2\obj\Debug\net5.0\ref\ProjetoLetsCode2.dll
+C:\Users\alexa\ProjetoLetsCode2\obj\Debug\net5.0\ProjetoLetsCode2.pdb
+C:\Users\alexa\ProjetoLetsCode2\obj\Debug\net5.0\ProjetoLetsCode2.genruntimeconfig.cache
